@@ -1,15 +1,14 @@
 {
 	"schemaVersion": 1,
-	"id": "remove_attack_cooldown",
+	"id": "remove_sword_attack_cooldown",
 	"version": "${version}",
-	"name": "remove_attack_cooldown",
-	"description": "This mod remove the sword attack cooldown",
+	"name": "RemoveSwordAttackCooldown",
+	"description": "This mod remove the sword attack cooldown (like in older versions)",
 	"authors": [
-		"Me!"
+		"moonvent"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/moonvent/minecraft_mod_remove_sword_attack_cooldown"
 	},
 	"license": "MIT",
 	"icon": "assets/remove_attack_cooldown/icon.png",
@@ -20,8 +19,8 @@
 		"remove_attack_cooldown.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.15.6",
-		"minecraft": "~1.20.4",
-		"java": ">=17"
+		"fabricloader": ">=0.15.3",
+		"minecraft": ">=1.14",
+		"java": ">=8"
 	}
 }
