@@ -12,6 +12,8 @@ Thank you for your attention and enjoy using my mod! If you have any suggestions
 
 If video not correct display, here is desription [https://www.youtube.com/watch?v=-TPwIa3K9MQ&t](https://www.youtube.com/watch?v=-TPwIa3K9MQ&t)
 
+Mod holding on: [https://curseforge.com/minecraft/mc-mods/remove-sword-attack-cooldown](https://curseforge.com/minecraft/mc-mods/remove-sword-attack-cooldown)
+
 ---
 
 ## Little offtop about mod
