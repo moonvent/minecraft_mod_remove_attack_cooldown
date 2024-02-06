@@ -3,7 +3,7 @@
 	"id": "remove_attack_cooldown",
 	"version": "${version}",
 	"name": "remove_attack_cooldown",
-	"description": "This mod remove the attach cooldown",
+	"description": "This mod remove the sword attack cooldown",
 	"authors": [
 		"Me!"
 	],
@@ -15,12 +15,6 @@
 	"icon": "assets/remove_attack_cooldown/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
-          "minecraftlover.moonvent.RemoveAttackCooldown.Remove_attack_cooldown"
-		],
-		"fabric-datagen": [
-          "minecraftlover.moonvent.RemoveAttackCooldown.Remove_attack_cooldownDataGenerator"
-		]
 	},
 	"mixins": [
 		"remove_attack_cooldown.mixins.json"
@@ -28,7 +22,6 @@
 	"depends": {
 		"fabricloader": ">=0.15.6",
 		"minecraft": "~1.20.4",
-		"java": ">=17",
-		"fabric-api": "*"
+		"java": ">=17"
 	}
 }
